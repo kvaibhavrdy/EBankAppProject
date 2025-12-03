@@ -17,7 +17,6 @@ Test Scenarios
 | Valid credentials | User ID = `142420`, PIN = `231225`       | Redirect to `https://qaebank.ccbp.tech/`                  |
 | Logout test       | Login → Logout                           | Redirect to Login page: `https://qaebank.ccbp.tech/login` |
 
-Project Structure
 src/test/java
     ├── pages
     ├── stepsdefinitions
